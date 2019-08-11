@@ -1,0 +1,12 @@
+main: cn.wode490390.nukkit.trashbin.TrashBin
+name: "TrashBin"
+description: "Trash bin plugin for Nukkit"
+author: "wode490390"
+website: "http://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.0"]
+load: POSTWORLD
+permissions:
+  trashbin.command:
+    description: "Allows player to open the trash bin using the /trashbin command"
+    default: true

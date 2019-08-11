@@ -1,0 +1,3 @@
+inventory-title: "&4&lTrash Bin"
+# Open the trash bin for the player when the first line of the sign that the player clicks is "[TrashBin]"
+enable-sign: true
